@@ -1,0 +1,6 @@
+Musteri_ID,Yas,Aylik_Gelir_TL,Kredi_Miktari_TL,Aylik_Kredi_Taksiti_TL,Gecmis_Gecikme_Sayisi,Basvuru_Ayi,Krediyi_Batirdi_Mi,Aylik_Enflasyon_Orani,Canli_Dolar_Kuru,Kur_Baskisi_Skoru,NLP_Kelime_durumu,NLP_Kelime_eski,NLP_Kelime_geldi,NLP_Kelime_kotu,NLP_Kelime_var,NLP_Duygu_Skoru,Maddi_Yuk_Orani,Net_Harcanabilir_Gelir,Enflasyon_Baskisi_Skoru,Kirmizi_Alarm_Endeksi,Guvenilirlik_Carpani
+1,25,15000,50000,2500,0,5,0,0.02,32.5,0.4,1,0,0,0,1,0.85,0.2,12500,0.3,0.1,0.95
+2,45,25000,120000,4500,2,6,1,0.025,32.8,0.6,0,1,0,1,0,0.30,0.5,13000,0.7,0.8,0.40
+3,32,18000,60000,3000,0,5,0,0.02,32.5,0.4,1,0,0,0,1,0.75,0.3,12600,0.4,0.2,0.88
+4,50,30000,200000,8000,1,7,1,0.03,33.0,0.8,0,0,1,1,0,0.20,0.6,12000,0.9,0.9,0.30
+5,28,12000,30000,1500,0,4,0,0.015,32.2,0.2,1,0,0,0,1,0.90,0.1,10500,0.2,0.05,0.99
